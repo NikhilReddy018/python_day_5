@@ -1,0 +1,10 @@
+a=true
+print(a)
+print(type(a))
+b=false
+print(b)
+print(type(b))
+c=int(a)
+print(c)
+d=int(b)
+print(d)
